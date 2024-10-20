@@ -11,14 +11,14 @@ export const HERO_CON = "I am a passionate coder with a deep love for solving pr
 export const ABOUT_TEXT = 'I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.';
 
 export const EXP = [{
-    year: "2024",
+    year: "Jan 2024",
     role: "Java Developer Intern",
     company: "CodeSoft",
     description: `Developed Java-based solutions, focusing on building efficient backend modules. Enhanced application performance by optimizing code and database interactions. Collaborated with senior developers on project delivery and debugging tasks.`,
     technologies: ["Java", "Spring", "MySQL"],
   },
     {
-      year: "2023",
+      year: "Dec 2023",
       role: "Java Development Intern",
       company: "Oasis InfoByte",
       description: `Worked on building and maintaining Java applications. Implemented core Java functionalities and contributed to backend logic development. Gained hands-on experience with OOP principles and best practices in software development.`,
@@ -26,7 +26,7 @@ export const EXP = [{
     },
     
     {
-      year: "2022",
+      year: "Nov 2022",
       role: "Web Development Intern",
       company: "Octanet Services",
       description: `Developed responsive websites and web applications. Worked with frontend technologies to enhance user interfaces and ensure cross-browser compatibility. Collaborated with backend teams to integrate web APIs.`,

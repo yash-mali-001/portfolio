@@ -47,7 +47,7 @@ const Technologies = () => {
         initial="initial"
         animate="animate"
         className='rounded-2xl border-2 border-white p-2'>
-            <a href="https://react.dev/"><RiJavaFill className='text-7xl text-red-500'/></a>
+            <a href="https://w3schools.com/java/"><RiJavaFill className='text-7xl text-red-500'/></a>
         </motion.div>
 
         <motion.div 
@@ -55,7 +55,7 @@ const Technologies = () => {
         initial="initial"
         animate="animate"
         className='rounded-2xl border-2 border-white  p-2'>
-            <a href="https://react.dev/"><RiFlutterFill className='text-7xl text-blue-400'/></a>
+            <a href="https://flutter.dev/learn"><RiFlutterFill className='text-7xl text-blue-400'/></a>
         </motion.div>
         
         <motion.div 
@@ -63,7 +63,7 @@ const Technologies = () => {
         initial="initial"
         animate="animate"
         className='rounded-2xl border-2 border-white p-2'>
-            <a href="https://react.dev/"><SiCplusplus className='text-7xl text-yellow-500'/></a>
+            <a href="https://www.w3schools.com/cpp/"><SiCplusplus className='text-7xl text-yellow-500'/></a>
         </motion.div>
 
         <motion.div 
@@ -71,7 +71,7 @@ const Technologies = () => {
         initial="initial"
         animate="animate"
         className='rounded-2xl border-2 border-white p-2'>
-            <a href="https://react.dev/"><SiMongodb className='text-7xl text-green-500'/></a>
+            <a href="https://www.w3schools.com/mongodb/"><SiMongodb className='text-7xl text-green-500'/></a>
         </motion.div>
         
         <motion.div 
@@ -79,7 +79,7 @@ const Technologies = () => {
         initial="initial"
         animate="animate"
         className='rounded-2xl border-2 border-white p-2 '>
-            <a href="https://react.dev/"><GrMysql className='text-7xl text-pink-500'/></a>
+            <a href="https://www.w3schools.com/MySQL/"><GrMysql className='text-7xl text-pink-500'/></a>
         </motion.div>
         
     </motion.div>
